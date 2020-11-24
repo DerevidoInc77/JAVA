@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 //Imports java.util package for input/output.
 
 public class CalCheckPassFail
